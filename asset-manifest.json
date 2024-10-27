@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a68497b3.css",
+    "main.js": "/static/js/main.0baf98a9.js",
+    "static/js/453.5333ad58.chunk.js": "/static/js/453.5333ad58.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.0b509a67b0fb00507a74.png",
+    "static/media/logo.svg": "/static/media/logo.60c2dec61dd084a4034ad391cba86e7e.svg",
+    "static/media/postgresql.svg": "/static/media/postgresql.680657600ce7d41dfe53af264879ac39.svg",
+    "static/media/react.svg": "/static/media/react.f9842bb79056f2460484ee80c63eda1f.svg",
+    "static/media/url.svg": "/static/media/url.ba08afef212684f499ded625996ba9ef.svg",
+    "static/media/node.svg": "/static/media/node.f2c6b91eb85d1c97dbf455a504743f19.svg",
+    "static/media/figma.svg": "/static/media/figma.dcc132686d602bc57456f0824b92228f.svg",
+    "static/media/js.svg": "/static/media/js.7271b67989d21a8676ab8480fe73d7ef.svg",
+    "static/media/jira.svg": "/static/media/jira.1be80643f51f23fc3cfe79ef399b6722.svg",
+    "static/media/git.svg": "/static/media/git.03cc70ff738684ebcd51a48797bf4402.svg",
+    "static/media/tableau.svg": "/static/media/tableau.57805ce3d879b0484cce9ee37929f561.svg",
+    "static/media/icons8-telegram.svg": "/static/media/icons8-telegram.dc7c72ab2c1067a7da0179f2c7b0844d.svg",
+    "static/media/confluence.svg": "/static/media/confluence.508158d869a6800a7531d5d11e4ec840.svg",
+    "static/media/cart.svg": "/static/media/cart.27e2a6ae1a43eab23ecaecc6ec35f15d.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.ad71d39fd2957d8c3006f27ac86a0976.svg",
+    "static/media/telegram.svg": "/static/media/telegram.e830a9f4ed0a273d1861cb50bb5bf3ae.svg",
+    "static/media/briefcase.svg": "/static/media/briefcase.5ad839e5873c39506fbbccc85e3f91c9.svg",
+    "static/media/css.svg": "/static/media/css.c04ee569c25db8f61ebda0ab1b8b5dad.svg",
+    "static/media/html.svg": "/static/media/html.460b6c2bbcd07196b666ca153239ba69.svg",
+    "static/media/musical-note.svg": "/static/media/musical-note.6f497601829bdd3c0a71ff1fcd0c4095.svg",
+    "static/media/burger.svg": "/static/media/burger.59e38cdcb30186d3fb2bfe85887ff6d1.svg",
+    "static/media/mail.svg": "/static/media/mail.9afc4d53e1e6263da5d797a4241ab25f.svg",
+    "static/media/envelope.svg": "/static/media/envelope.edf2a19c051ca0a21d56f26eeeb327e0.svg",
+    "static/media/file.svg": "/static/media/file.a31e7aa6107d3a71dfe38312776d791d.svg",
+    "main.a68497b3.css.map": "/static/css/main.a68497b3.css.map",
+    "main.0baf98a9.js.map": "/static/js/main.0baf98a9.js.map",
+    "453.5333ad58.chunk.js.map": "/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a68497b3.css",
+    "static/js/main.0baf98a9.js"
+  ]
+}
