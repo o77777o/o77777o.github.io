@@ -489,7 +489,7 @@ section { scroll-margin-top: 80px; }
 }
 .tech-col ul { list-style: none; padding: 0; display: grid; gap: 6px; }
 .tech-col li { font-size: 14px; color: var(--text-muted); display: flex; gap: var(--space-2); align-items: baseline; }
-.tech-col li::before { content: "—"; color: var(--accent); }
+.tech-col li::before { content: "-"; color: var(--accent); }
 
 .cases__grid {
   display: grid;
@@ -649,7 +649,7 @@ section { scroll-margin-top: 80px; }
   .brand__role { display: none; }
   .about__text p { font-size: 16px; } /* было 19px → 16px: единый размер с телом, строки ровнее, текст не «пляшет» */
 
-  /* Hero: портрет по центру и крупнее, кнопки на всю ширину — секция выглядит цельно, не «куцо» */
+  /* Hero: портрет по центру и крупнее, кнопки на всю ширину - секция выглядит цельно, не «куцо» */
   .hero__portrait { justify-self: center; width: min(280px, 64vw); }
   .hero__cta { flex-direction: column; align-items: stretch; }
   .hero__cta .btn { width: 100%; }
